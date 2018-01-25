@@ -7,7 +7,6 @@ Support CPU mining and mining on nVidia and AMD cards.
 You may config any supported miner to any configuration.
 
 ### Coming soon
-* ~~Claymore serie miners~~
 * Claymore Dual mining
 
 ## Features
@@ -40,6 +39,7 @@ You may config any supported miner to any configuration.
 * gatelessgate
 * Claymore zcash (equihash)
 * Claymore cryptonight
+* dstm zcash (equihash)
 
 ## Requirements
 **PowerShell 5.0**
